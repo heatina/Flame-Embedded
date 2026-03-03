@@ -1,0 +1,6 @@
+/mnt/sdcard/autom8/apiPost.sh
+/mnt/sdcard/autom8/revert2Auto.sh
+/mnt/sdcard/www/restricted/settings-advanced.php
+/mnt/sdcard/autom8/autoCFH.sh
+/mnt/sdcard/autom8/flame.sh
+/mnt/sdcard/www/restricted/settings-logs.php

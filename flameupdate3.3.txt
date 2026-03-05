@@ -1,6 +1,6 @@
-autoCFH Bug fix.
-Adjusted 24hr timer match to be 60% of previous.
-Added Profiles settings area.
-Allow copying of profiles.
-Add missing 'copy profile to persistent' in flame.sh
-
+/mnt/sdcard/autom8/apiPost.sh
+/mnt/sdcard/autom8/revert2Auto.sh
+/mnt/sdcard/www/restricted/settings-advanced.php
+/mnt/sdcard/autom8/autoCFH.sh
+/mnt/sdcard/autom8/flame.sh
+/mnt/sdcard/www/restricted/settings-logs.php

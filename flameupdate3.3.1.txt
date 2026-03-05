@@ -1,0 +1,2 @@
+/mnt/sdcard/autom8/zone2.sh
+/mnt/sdcard/autom8/runOnce-cmd.sh

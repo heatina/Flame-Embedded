@@ -1,0 +1,28 @@
+#3.3.2
+flame, changed initial wifi scan
+wifiSelect, changed wifi scan command
+Removed old files
+
+#Files
+/mnt/sdcard/autom8/flame.sh
+/mnt/sdcard/autom8/wifiSelect.sh
+/mnt/sdcard/autom8/runOnce-cmd.sh
+
+#to delete
+rm /mnt/sdcard/autom8/shared/isrgrootx1.pem
+rm /mnt/sdcard/autom8/shared/isrg-root-x2.pem
+rm /mnt/sdcard/autom8/shared/lets-encrypt-r3.pem
+rm /mnt/sdcard/autom8/shared/menu.png
+rm /mnt/sdcard/autom8/shared/menu.png.1
+rm /mnt/sdcard/autom8/shared/r3.pem
+rm /mnt/sdcard/autom8/shared/cacert.crt
+rm /mnt/sdcard/autom8/shared/ca-certificates.conf
+rm /mnt/sdcard/autom8/shared/cacert.pem
+rm /mnt/sdcard/autom8/shared/dummy.txt
+rm -R /mnt/sdcard/autom8/shared/fromflame2/
+rm -R /mnt/sdcard/autom8/shared/cacert3/
+rm /mnt/sdcard/autom8/shared/flameupdate3.1*
+rm /mnt/sdcard/autom8/shared/flameupdate3.2*
+rm /mnt/sdcard/autom8/shared/177*
+rm /mnt/sdcard/autom8/shared/auto*
+
